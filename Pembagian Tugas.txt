@@ -1,0 +1,11 @@
+Pembagian Tugas 
+
+Mahasiswa 1 ( Dionesyus Divo ):
+- Fokus pada coding (implementasi program) 
+- Pengolahan citra & eksperimen 
+- Penulisan Makalah (Bab 4 Hasil dan Pembahasan)
+
+Mahasiswa 2 ( Shaffa Dwiaji ):
+- Penulisan Makalah (Abstrak, Bab 1 Pendahuluan, Bab 2 Tinjauan Pustaka, Bab 3 Metodologi, dan Bab 5 Kesimpulan)
+- Penulisan Proposal Singkat
+- Studi literatur
